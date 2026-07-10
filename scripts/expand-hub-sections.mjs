@@ -813,6 +813,16 @@ function buildSimplePage(page) {
         <article class="content">
           ${page.sections}
         </article>
+        <aside class="toc">
+          <strong>On this page</strong>
+          ${(page.sections.match(/<section[^>]*id="([^"]+)"[\s\S]*?<h2>([^<]+)<\/h2>/g) || [])
+            .map((m) => {
+              const id = m.match(/id="([^"]+)"/)[1];
+              const label = m.match(/<h2>([^<]+)<\/h2>/)[1];
+              return `<a href="#${id}">${label}</a>`;
+            })
+            .join("")}
+        </aside>
       </div>
     </main>
     ${FOOTER}
@@ -838,12 +848,47 @@ for (const [relPath, topic] of EXISTING_HUBS) {
   report.push(expandExistingPage(relPath, topic));
 }
 
+// The .page-grid layout is a two-column grid (250px toc + content). Pages
+// without an <aside class="toc"> collapse into the narrow first column, so
+// every page-grid page must carry one.
+const HOME_TOC_LABELS = {
+  "top-recommendation": "Top Pick",
+  "provider-ranking": "Provider Rankings",
+  "explore-library": "Explore the Library",
+  "proxy-types": "Proxy Types",
+  "final-cta": "Final CTA",
+  ...Object.fromEntries(LIBRARY.map((s) => [s.id, s.label])),
+};
+
+function ensureHomepageToc() {
+  const filePath = path.join(ROOT, "index.html");
+  let html = fs.readFileSync(filePath, "utf8");
+  if (html.includes('<aside class="toc">')) return false;
+  const ids = [...html.matchAll(/<section[^>]*\bid="([^"]+)"/g)].map((m) => m[1]);
+  const links = ids
+    .filter((id) => HOME_TOC_LABELS[id])
+    .map((id) => `<a href="#${id}">${HOME_TOC_LABELS[id]}</a>`)
+    .join("");
+  const articleEnd = html.lastIndexOf("</article>");
+  if (articleEnd === -1) throw new Error("No </article> in index.html");
+  const aside = `</article>
+        <aside class="toc">
+          <strong>On this page</strong>
+          ${links}
+        </aside>`;
+  html = `${html.slice(0, articleEnd)}${aside}${html.slice(articleEnd + "</article>".length)}`;
+  fs.writeFileSync(filePath, html, "utf8");
+  return true;
+}
+
 for (const page of SIMPLE_PAGES) {
   const dir = path.join(ROOT, page.route.replace(/^\//, ""));
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, "index.html"), buildSimplePage(page), "utf8");
   report.push({ relPath: `${page.route}/index.html (new)`, before: 0, after: TARGET_SECTIONS });
 }
+
+console.log(`Homepage toc added: ${ensureHomepageToc()}`);
 
 // Sitemap: register new routes once.
 const sitemapPath = path.join(ROOT, "sitemap.xml");
