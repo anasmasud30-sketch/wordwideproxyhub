@@ -1,0 +1,2934 @@
+[
+  {
+    "type": "alternative",
+    "label": "Alternatives",
+    "href": "/compare",
+    "items": [
+      {
+        "href": "/compare/911-s5-replacement-options",
+        "title": "911 S5 Alternatives",
+        "h1": "911 S5 Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/922-proxy-replacement-options",
+        "title": "922 Proxy Alternatives",
+        "h1": "922 Proxy Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/bright-data-replacement-options",
+        "title": "Bright Data Alternatives",
+        "h1": "Bright Data Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/geosurf-replacement-options",
+        "title": "Geosurf Alternatives",
+        "h1": "Geosurf Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/netnut-replacement-options",
+        "title": "Netnut Alternatives",
+        "h1": "Netnut Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/oxylabs-replacement-options",
+        "title": "Oxylabs Alternatives",
+        "h1": "Oxylabs Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/proxy-provider-replacement-options",
+        "title": "Proxy Provider Alternatives",
+        "h1": "Proxy Provider Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/proxy-switchyomega-replacement-options",
+        "title": "Proxy Switchyomega Alternatives",
+        "h1": "Proxy Switchyomega Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/scrapingbee-replacement-options",
+        "title": "Scrapingbee Alternatives",
+        "h1": "Scrapingbee Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/smartproxy-replacement-options",
+        "title": "Smartproxy Alternatives",
+        "h1": "Smartproxy Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/storm-proxy-replacement-options",
+        "title": "Storm Proxies Alternatives",
+        "h1": "Storm Proxies Alternatives: Budget-Friendly Proxy Options"
+      },
+      {
+        "href": "/compare/webshare-replacement-options",
+        "title": "Webshare Alternatives",
+        "h1": "Webshare Alternatives: Budget-Friendly Proxy Options"
+      }
+    ]
+  },
+  {
+    "type": "comparison",
+    "label": "Comparisons",
+    "href": "/compare",
+    "items": [
+      {
+        "href": "/compare/gologin-vs-multilogin-side-by-side-analysis",
+        "title": "Gologin Vs Multilogin",
+        "h1": "Gologin Vs Multilogin: Proxy Buyer Comparison"
+      },
+      {
+        "href": "/compare/oxylabs-vs-luminati-which-is-the-side-by-side-analysis",
+        "title": "Oxylabs Vs Luminati Which Is The Best",
+        "h1": "Oxylabs Vs Luminati Which Is The Best: Proxy Buyer Comparison"
+      },
+      {
+        "href": "/compare/proxy-provider-comparisons-side-by-side-analysis",
+        "title": "Proxy Provider Comparisons",
+        "h1": "Proxy Provider Comparisons: Proxy Buyer Comparison"
+      },
+      {
+        "href": "/compare/smartproxy-vs-luminati-performance-feature-comparison-side-by-side-analysis",
+        "title": "Smartproxy Vs Luminati Performance Feature Comparison",
+        "h1": "Smartproxy Vs Luminati Performance Feature Comparison: Proxy Buyer Comparison"
+      },
+      {
+        "href": "/compare/storm-proxy-vs-smartproxy-performance-feature-comparison-side-by-side-analysis",
+        "title": "Storm Proxies Vs Smartproxy Performance Feature Comparison",
+        "h1": "Storm Proxies Vs Smartproxy Performance Feature Comparison: Proxy Buyer Comparison"
+      }
+    ]
+  },
+  {
+    "type": "glossary",
+    "label": "Glossary",
+    "href": "/glossary",
+    "items": [
+      {
+        "href": "/glossary/api-web-data-meaning",
+        "title": "API",
+        "h1": "API Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/axios-web-data-meaning",
+        "title": "Axios",
+        "h1": "Axios Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/c-web-data-meaning",
+        "title": "C",
+        "h1": "C Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/captcha-web-data-meaning",
+        "title": "Captcha",
+        "h1": "Captcha Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/css-web-data-meaning",
+        "title": "CSS",
+        "h1": "CSS Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/csv-web-data-meaning",
+        "title": "CSV",
+        "h1": "CSV Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/curl-web-data-meaning",
+        "title": "Curl",
+        "h1": "Curl Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/data-extraction-web-data-meaning",
+        "title": "Data Extraction",
+        "h1": "Data Extraction Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/data-mining-web-data-meaning",
+        "title": "Data Mining",
+        "h1": "Data Mining Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/dns-web-data-meaning",
+        "title": "DNS",
+        "h1": "DNS Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/dom-web-data-meaning",
+        "title": "DOM",
+        "h1": "DOM Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/domain-web-data-meaning",
+        "title": "Domain",
+        "h1": "Domain Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/fetch-web-data-meaning",
+        "title": "Fetch",
+        "h1": "Fetch Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/honeypot-web-data-meaning",
+        "title": "Honeypot",
+        "h1": "Honeypot Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/http-web-data-meaning",
+        "title": "HTTP",
+        "h1": "HTTP Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/ip-address-web-data-meaning",
+        "title": "IP Address",
+        "h1": "IP Address Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/ipv4-proxy-web-data-meaning",
+        "title": "IPv4 Proxy",
+        "h1": "IPv4 Proxy Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/ipv6-web-data-meaning",
+        "title": "IPv6",
+        "h1": "IPv6 Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/json-web-data-meaning",
+        "title": "JSON",
+        "h1": "JSON Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/mysql-web-data-meaning",
+        "title": "MySQL",
+        "h1": "MySQL Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/network-protocol-web-data-meaning",
+        "title": "Network Protocol",
+        "h1": "Network Protocol Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/node-js-web-data-meaning",
+        "title": "Node Js",
+        "h1": "Node Js Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/playwright-web-data-meaning",
+        "title": "Playwright",
+        "h1": "Playwright Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/proxy-glossary-web-data-meaning",
+        "title": "Proxy Glossary",
+        "h1": "Proxy Glossary Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/regex-web-data-meaning",
+        "title": "Regex",
+        "h1": "Regex Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/robots-txt-web-data-meaning",
+        "title": "Robots Txt",
+        "h1": "Robots Txt Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/scraper-web-data-meaning",
+        "title": "Scraper",
+        "h1": "Scraper Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/selenium-web-data-meaning",
+        "title": "Selenium",
+        "h1": "Selenium Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/smb-web-data-meaning",
+        "title": "SMB",
+        "h1": "SMB Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/sql-web-data-meaning",
+        "title": "SQL",
+        "h1": "SQL Explained for Proxy and Web Data Teams"
+      },
+      {
+        "href": "/glossary/token-web-data-meaning",
+        "title": "Token",
+        "h1": "Token Explained for Proxy and Web Data Teams"
+      }
+    ]
+  },
+  {
+    "type": "knowledge",
+    "label": "Knowledge Base",
+    "href": "/knowledge",
+    "items": [
+      {
+        "href": "/knowledge/how-to-extract-text-from-a-table-using-beautifulsoup-web-data-guide",
+        "title": "How To Extract Text From A Table Using Beautifulsoup",
+        "h1": "How To Extract Text From A Table Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-extract-text-with-formatting-using-beautifulsoup-web-data-guide",
+        "title": "How To Extract Text With Formatting Using Beautifulsoup",
+        "h1": "How To Extract Text With Formatting Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-find-all-href-attributes-using-beautifulsoup-web-data-guide",
+        "title": "How To Find All Href Attributes Using Beautifulsoup",
+        "h1": "How To Find All Href Attributes Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-find-all-urls-using-selenium-web-data-guide",
+        "title": "How To Find All Urls Using Selenium",
+        "h1": "How To Find All Urls Using Selenium: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-find-element-by-class-using-beautifulsoup-web-data-guide",
+        "title": "How To Find Element By Class Using Beautifulsoup",
+        "h1": "How To Find Element By Class Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-find-element-by-id-using-beautifulsoup-web-data-guide",
+        "title": "How To Find Element By Id Using Beautifulsoup",
+        "h1": "How To Find Element By Id Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-find-element-by-id-using-selenium-web-data-guide",
+        "title": "How To Find Element By Id Using Selenium",
+        "h1": "How To Find Element By Id Using Selenium: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-find-element-by-text-using-selenium-web-data-guide",
+        "title": "How To Find Element By Text Using Selenium",
+        "h1": "How To Find Element By Text Using Selenium: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-get-href-attribute-of-a-element-using-beautiful-soup-web-data-guide",
+        "title": "How To Get Href Attribute Of A Element Using Beautiful Soup",
+        "h1": "How To Get Href Attribute Of A Element Using Beautiful Soup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-get-src-attribute-from-img-tag-using-beautifulsoup-web-data-guide",
+        "title": "How To Get Src Attribute From Img Tag Using Beautifulsoup",
+        "h1": "How To Get Src Attribute From Img Tag Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-get-text-from-div-using-beautifulsoup-web-data-guide",
+        "title": "How To Get Text From Div Using Beautifulsoup",
+        "h1": "How To Get Text From Div Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-get-text-using-lxml-web-data-guide",
+        "title": "How To Get Text Using Lxml",
+        "h1": "How To Get Text Using Lxml: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-install-beautifulsoup-on-windows-10-web-data-guide",
+        "title": "How To Install Beautifulsoup On Windows 10",
+        "h1": "How To Install Beautifulsoup On Windows 10: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-open-ie-using-selenium-webdriver-web-data-guide",
+        "title": "How To Open Ie Using Selenium Webdriver",
+        "h1": "How To Open Ie Using Selenium Webdriver: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-parse-xml-with-lxml-web-data-guide",
+        "title": "How To Parse XML With Lxml",
+        "h1": "How To Parse XML With Lxml: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-remove-tag-but-keep-its-contents-using-beautifulsoup-web-data-guide",
+        "title": "How To Remove Tag But Keep Its Contents Using Beautifulsoup",
+        "h1": "How To Remove Tag But Keep Its Contents Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-scrape-a-table-using-beautifulsoup-web-data-guide",
+        "title": "How To Scrape A Table Using Beautifulsoup",
+        "h1": "How To Scrape A Table Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/how-to-scrape-multiple-pages-using-beautifulsoup-web-data-guide",
+        "title": "How To Scrape Multiple Pages Using Beautifulsoup",
+        "h1": "How To Scrape Multiple Pages Using Beautifulsoup: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/prevent-web-scraping-using-ip-geolocation-web-data-guide",
+        "title": "Prevent Web Scraping Using IP Geolocation",
+        "h1": "Prevent Web Scraping Using IP Geolocation: Web Data and Proxy Workflow Guide"
+      },
+      {
+        "href": "/knowledge/web-scraping-knowledge-base-web-data-guide",
+        "title": "Web Scraping Knowledge Base",
+        "h1": "Web Scraping Knowledge Base: Web Data and Proxy Workflow Guide"
+      }
+    ]
+  },
+  {
+    "type": "location",
+    "label": "Locations",
+    "href": "/locations",
+    "items": [
+      {
+        "href": "/locations/asia-proxy-network-guide",
+        "title": "Asia Proxy Network",
+        "h1": "Asia Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/australia-proxy-network-guide",
+        "title": "Australia Proxy Network",
+        "h1": "Australia Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/belgium-proxy-network-guide",
+        "title": "Belgium Proxy Network",
+        "h1": "Belgium Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/brazil-proxy-network-guide",
+        "title": "Brazil Proxy Network",
+        "h1": "Brazil Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/canada-proxy-network-guide",
+        "title": "Canada Proxy Network",
+        "h1": "Canada Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/china-proxy-network-guide",
+        "title": "China Proxy Network",
+        "h1": "China Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/denmark-proxy-network-guide",
+        "title": "Denmark Proxy Network",
+        "h1": "Denmark Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/europe-proxy-network-guide",
+        "title": "Europe Proxy Network",
+        "h1": "Europe Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/france-proxy-network-guide",
+        "title": "France Proxy Network",
+        "h1": "France Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/germany-proxy-network-guide",
+        "title": "Germany Proxy Network",
+        "h1": "Germany Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/global-proxy-locations-proxy-network-guide",
+        "title": "Global Proxy Locations",
+        "h1": "Global Proxy Locations: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/india-proxy-network-guide",
+        "title": "India Proxy Network",
+        "h1": "India Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/indonesia-proxy-network-guide",
+        "title": "Indonesia Proxy Network",
+        "h1": "Indonesia Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/israel-proxy-network-guide",
+        "title": "Israel Proxy Network",
+        "h1": "Israel Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/italy-proxy-network-guide",
+        "title": "Italy Proxy Network",
+        "h1": "Italy Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/japan-proxy-network-guide",
+        "title": "Japan Proxy Network",
+        "h1": "Japan Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/mexico-proxy-network-guide",
+        "title": "Mexico Proxy Network",
+        "h1": "Mexico Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/netherlands-proxy-network-guide",
+        "title": "Netherlands Proxy Network",
+        "h1": "Netherlands Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/new-zealand-proxy-network-guide",
+        "title": "New Zealand Proxy Network",
+        "h1": "New Zealand Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/poland-proxy-network-guide",
+        "title": "Poland Proxy Network",
+        "h1": "Poland Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/russia-proxy-network-guide",
+        "title": "Russia Proxy Network",
+        "h1": "Russia Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/singapore-proxy-network-guide",
+        "title": "Singapore Proxy Network",
+        "h1": "Singapore Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/south-korea-proxy-network-guide",
+        "title": "South Korea Proxy Network",
+        "h1": "South Korea Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/spain-proxy-network-guide",
+        "title": "Spain Proxy Network",
+        "h1": "Spain Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/sweden-proxy-network-guide",
+        "title": "Sweden Proxy Network",
+        "h1": "Sweden Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/taiwan-proxy-network-guide",
+        "title": "Taiwan Proxy Network",
+        "h1": "Taiwan Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/thailand-proxy-network-guide",
+        "title": "Thailand Proxy Network",
+        "h1": "Thailand Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/uk-proxy-network-guide",
+        "title": "UK Proxy Network",
+        "h1": "UK Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/us-proxy-network-guide",
+        "title": "US Proxy Network",
+        "h1": "US Proxy Network: Location Proxy Buying Guide"
+      },
+      {
+        "href": "/locations/vietnam-proxy-network-guide",
+        "title": "Vietnam Proxy Network",
+        "h1": "Vietnam Proxy Network: Location Proxy Buying Guide"
+      }
+    ]
+  },
+  {
+    "type": "marketUpdate",
+    "label": "Market Updates",
+    "href": "/market-updates",
+    "items": [
+      {
+        "href": "/market-updates/10-years-of-scrapy-interview-with-shane-evans-market-context",
+        "title": "10 Years Of Scrapy Interview With Shane Evans",
+        "h1": "10 Years Of Scrapy Interview With Shane Evans: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/911-proxy-shuts-down-market-context",
+        "title": "911 Proxy Service Shuts Down",
+        "h1": "911 Proxy Service Shuts Down: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/balancing-proxy-cost-and-quality-market-context",
+        "title": "Balancing Proxy Cost And Quality",
+        "h1": "Balancing Proxy Cost And Quality: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/blazing-seo-introduces-mobile-proxy-market-context",
+        "title": "Blazing SEO Introduces Mobile Proxies",
+        "h1": "Blazing SEO Introduces Mobile Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/blazing-seo-raises-funds-for-ukrainian-team-market-context",
+        "title": "Blazing SEO Raises Funds For Ukrainian Team",
+        "h1": "Blazing SEO Raises Funds For Ukrainian Team: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/blazing-seo-rebrands-becomes-rayobyte-market-context",
+        "title": "Blazing SEO Rebrands Becomes Rayobyte",
+        "h1": "Blazing SEO Rebrands Becomes Rayobyte: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-and-meta-sue-one-another-market-context",
+        "title": "Bright Data And Meta Sue One Another",
+        "h1": "Bright Data And Meta Sue One Another: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-buys-digital-analytics-company-announces-bright-insights-market-context",
+        "title": "Bright Data Buys Digital Analytics Company Announces Bright Insights",
+        "h1": "Bright Data Buys Digital Analytics Company Announces Bright Insights: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-cuts-mobile-proxy-prices-market-context",
+        "title": "Bright Data Cuts Mobile Proxy Prices",
+        "h1": "Bright Data Cuts Mobile Proxy Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-drops-residential-proxy-prices-by-30-market-context",
+        "title": "Bright Data Drops Residential Proxy Prices By 30",
+        "h1": "Bright Data Drops Residential Proxy Prices By 30: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-equalizes-residential-mobile-proxy-rates-market-context",
+        "title": "Bright Data Equalizes Residential Mobile Proxy Rates",
+        "h1": "Bright Data Equalizes Residential Mobile Proxy Rates: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-impact-report-tech-highlights-market-context",
+        "title": "Bright Data Impact Report Tech Highlights",
+        "h1": "Bright Data Impact Report Tech Highlights: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-introduces-residential-proxy-no-kyc-mode-market-context",
+        "title": "Bright Data Introduces Residential Proxy No Kyc Mode",
+        "h1": "Bright Data Introduces Residential Proxy No Kyc Mode: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-launches-a-lineup-of-tools-for-ai-market-context",
+        "title": "Bright Data Launches A Lineup Of Tools For Ai",
+        "h1": "Bright Data Launches A Lineup Of Tools For Ai: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-launches-free-vpn-market-context",
+        "title": "Bright Data Launches Free Vpn",
+        "h1": "Bright Data Launches Free Vpn: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-launches-scraping-browser-market-context",
+        "title": "Bright Data Launches Scraping Browser",
+        "h1": "Bright Data Launches Scraping Browser: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-reduces-residential-prices-20-percent-market-context",
+        "title": "Bright Data Reduces Residential Prices 20 Percent",
+        "h1": "Bright Data Reduces Residential Prices 20 Percent: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-scrapecon-2024-market-context",
+        "title": "Bright Data Scrapecon 2024",
+        "h1": "Bright Data Scrapecon 2024: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-scraper-prices-unlocker-api-market-context",
+        "title": "Bright Data Scraper Prices Unlocker API",
+        "h1": "Bright Data Scraper Prices Unlocker API: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-to-host-web-scraping-conference-market-context",
+        "title": "Bright Data To Host Web Scraping Conference",
+        "h1": "Bright Data To Host Web Scraping Conference: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/bright-data-wins-against-meta-market-context",
+        "title": "Bright Data Wins Against Meta",
+        "h1": "Bright Data Wins Against Meta: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/building-a-stealth-browser-interview-with-rayobyte-market-context",
+        "title": "Building A Stealth Browser Interview With Rayobyte",
+        "h1": "Building A Stealth Browser Interview With Rayobyte: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/byteful-launches-mobile-proxy-market-context",
+        "title": "Byteful Launches Mobile Proxies",
+        "h1": "Byteful Launches Mobile Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/dataimpulse-adds-more-targeting-options-market-context",
+        "title": "Dataimpulse Adds More Targeting Options",
+        "h1": "Dataimpulse Adds More Targeting Options: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/dataimpulse-launches-premium-residential-proxy-pool-market-context",
+        "title": "Dataimpulse Launches Premium Residential Proxy Pool",
+        "h1": "Dataimpulse Launches Premium Residential Proxy Pool: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/dominic-li-journey-with-geelark-market-context",
+        "title": "Dominic Li Journey With Geelark",
+        "h1": "Dominic Li Journey With Geelark: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/evomi-adds-new-filters-to-residential-proxy-market-context",
+        "title": "Evomi Adds New Filters To Residential Proxies",
+        "h1": "Evomi Adds New Filters To Residential Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/evomi-launches-core-residential-proxy-market-context",
+        "title": "Evomi Launches Core Residential Proxies",
+        "h1": "Evomi Launches Core Residential Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/extract-summit-2023-recap-market-context",
+        "title": "Extract Summit 2023 Recap",
+        "h1": "Extract Summit 2023 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/extract-summit-2024-recap-market-context",
+        "title": "Extract Summit 2024 Recap",
+        "h1": "Extract Summit 2024 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/fbi-takes-down-rsocks-market-context",
+        "title": "Fbi Takes Down Rsocks",
+        "h1": "Fbi Takes Down Rsocks: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/fighting-ip-hijacking-interview-with-stat-proxy-market-context",
+        "title": "Fighting IP Hijacking Interview With Stat Proxies",
+        "h1": "Fighting IP Hijacking Interview With Stat Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/foot-locker-introducing-raffle-online-sneaker-releases-market-context",
+        "title": "Foot Locker Introducing Raffle Online Sneaker Releases",
+        "h1": "Foot Locker Introducing Raffle Online Sneaker Releases: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/geosurf-is-shutting-down-market-context",
+        "title": "Geosurf Is Shutting Down",
+        "h1": "Geosurf Is Shutting Down: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/google-disrupts-10-ipidea-related-chinese-proxy-providers-market-context",
+        "title": "Google Disrupts 10 Ipidea Related Chinese Proxy Providers",
+        "h1": "Google Disrupts 10 Ipidea Related Chinese Proxy Providers: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/google-search-starts-requiring-javascript-rendering-market-context",
+        "title": "Google Search Starts Requiring Javascript Rendering",
+        "h1": "Google Search Starts Requiring Javascript Rendering: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/google-sues-serpapi-market-context",
+        "title": "Google Sues Serpapi",
+        "h1": "Google Sues Serpapi: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/how-kyc-guidelines-protect-proxy-market-market-context",
+        "title": "How Kyc Guidelines Protect Proxy Market",
+        "h1": "How Kyc Guidelines Protect Proxy Market: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/how-to-safeguard-proxy-industry-market-context",
+        "title": "How To Safeguard Proxy Industry",
+        "h1": "How To Safeguard Proxy Industry: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/i2coalition-launches-initiative-to-make-public-data-aggregation-more-ethical-market-context",
+        "title": "I2coalition Launches Initiative To Make Public Data Aggregation More Ethical",
+        "h1": "I2coalition Launches Initiative To Make Public Data Aggregation More Ethical: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infantica-introduces-shared-datacenter-proxy-market-context",
+        "title": "Infantica Introduces Shared Datacenter Proxies",
+        "h1": "Infantica Introduces Shared Datacenter Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-cuts-residential-proxy-prices-market-context",
+        "title": "Infatica Cuts Residential Proxy Prices",
+        "h1": "Infatica Cuts Residential Proxy Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-halves-mobile-proxy-rates-market-context",
+        "title": "Infatica Halves Mobile Proxy Rates",
+        "h1": "Infatica Halves Mobile Proxy Rates: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-introduces-dedicated-isp-proxy-market-context",
+        "title": "Infatica Introduces Dedicated ISP Proxies",
+        "h1": "Infatica Introduces Dedicated ISP Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-launches-dedicated-datacenter-proxy-market-context",
+        "title": "Infatica Launches Dedicated Datacenter Proxies",
+        "h1": "Infatica Launches Dedicated Datacenter Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-launches-ipv6-residential-proxy-market-context",
+        "title": "Infatica Launches IPv6 Residential Proxies",
+        "h1": "Infatica Launches IPv6 Residential Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-launches-rotating-datacenter-proxy-market-context",
+        "title": "Infatica Launches Rotating Datacenter Proxies",
+        "h1": "Infatica Launches Rotating Datacenter Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-launches-rotating-mobile-proxy-market-context",
+        "title": "Infatica Launches Rotating Mobile Proxies",
+        "h1": "Infatica Launches Rotating Mobile Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-mobile-proxy-50-cheaper-market-context",
+        "title": "Infatica Mobile Proxies 50 Cheaper",
+        "h1": "Infatica Mobile Proxies 50 Cheaper: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/infatica-residential-price-decrease-april-2024-market-context",
+        "title": "Infatica Residential Price Decrease April 2024",
+        "h1": "Infatica Residential Price Decrease April 2024: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/internet-sharing-sdks-app-monetization-market-context",
+        "title": "Internet Sharing Sdks App Monetization",
+        "h1": "Internet Sharing Sdks App Monetization: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/interview-with-brightdata-about-proxy-ethicality-market-context",
+        "title": "Interview With Brightdata About Proxy Ethicality",
+        "h1": "Interview With Brightdata About Proxy Ethicality: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/interview-with-i2coalition-about-scraping-ethicality-market-context",
+        "title": "Interview With I2coalition About Scraping Ethicality",
+        "h1": "Interview With I2coalition About Scraping Ethicality: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/interview-with-oxylabs-about-proxy-ethicality-market-context",
+        "title": "Interview With Oxylabs About Proxy Ethicality",
+        "h1": "Interview With Oxylabs About Proxy Ethicality: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/interview-with-ping-proxy-market-context",
+        "title": "Interview With Ping Proxies",
+        "h1": "Interview With Ping Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/introducing-new-team-member-isabel-market-context",
+        "title": "Introducing New Team Member Isabel",
+        "h1": "Introducing New Team Member Isabel: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/introducing-proxyway-news-feed-market-context",
+        "title": "Introducing Proxyway News Feed",
+        "h1": "Introducing Proxyway News Feed: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/iproyal-launches-web-unblocker-market-context",
+        "title": "Iproyal Launches Web Unblocker",
+        "h1": "Iproyal Launches Web Unblocker: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/iproyal-loses-one-of-residential-proxy-pools-market-context",
+        "title": "Iproyal Loses One Of Residential Proxy Pools",
+        "h1": "Iproyal Loses One Of Residential Proxy Pools: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/iproyal-pool-reaches-250000-ips-market-context",
+        "title": "Iproyal Pool Reaches 250000 Ips",
+        "h1": "Iproyal Pool Reaches 250000 Ips: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/iproyal-rebrands-adds-features-raises-prices-market-context",
+        "title": "Iproyal Rebrands Adds Features Raises Prices",
+        "h1": "Iproyal Rebrands Adds Features Raises Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/jarvee-shuts-down-market-context",
+        "title": "Jarvee Shuts Down",
+        "h1": "Jarvee Shuts Down: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/judge-sides-with-bright-data-against-meta-market-context",
+        "title": "Judge Sides With Bright Data Against Meta",
+        "h1": "Judge Sides With Bright Data Against Meta: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/kill-your-product-market-context",
+        "title": "Kill Your Product",
+        "h1": "Kill Your Product: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/luminati-initiates-ethical-data-committee-market-context",
+        "title": "Luminati Initiates Ethical Data Committee",
+        "h1": "Luminati Initiates Ethical Data Committee: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/luminati-rebrands-becomes-bright-data-market-context",
+        "title": "Luminati Rebrands Becomes Bright Data",
+        "h1": "Luminati Rebrands Becomes Bright Data: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/luminati-releases-search-engine-crawler-market-context",
+        "title": "Luminati Releases Search Engine Crawler",
+        "h1": "Luminati Releases Search Engine Crawler: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/massive-launches-web-render-api-market-context",
+        "title": "Massive Launches Web Render API",
+        "h1": "Massive Launches Web Render API: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/microsoft-retires-bing-search-apis-today-market-context",
+        "title": "Microsoft Retires Bing Search APIs Today",
+        "h1": "Microsoft Retires Bing Search APIs Today: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-cuts-residential-proxy-prices-market-context",
+        "title": "Netnut Cuts Residential Proxy Prices",
+        "h1": "Netnut Cuts Residential Proxy Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-decreases-residential-mobile-prices-market-context",
+        "title": "Netnut Decreases Residential Mobile Prices",
+        "h1": "Netnut Decreases Residential Mobile Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-introduces-mobile-proxy-plans-market-context",
+        "title": "Netnut Introduces Mobile Proxy Plans",
+        "h1": "Netnut Introduces Mobile Proxy Plans: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-launches-new-proxy-types-self-market-context",
+        "title": "Netnut Launches New Proxy Types Self Service",
+        "h1": "Netnut Launches New Proxy Types Self Service: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-redesigns-website-teases-three-new-scrapers-market-context",
+        "title": "Netnut Redesigns Website Teases Three New Scrapers",
+        "h1": "Netnut Redesigns Website Teases Three New Scrapers: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-revises-static-residential-proxy-pricing-market-context",
+        "title": "Netnut Revises Static Residential Proxy Pricing",
+        "h1": "Netnut Revises Static Residential Proxy Pricing: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-to-launch-free-vpn-market-context",
+        "title": "Netnut To Launch Free Vpn",
+        "h1": "Netnut To Launch Free Vpn: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/netnut-unblocker-serp-api-datasets-market-context",
+        "title": "Netnut Unblocker Serp API Datasets",
+        "h1": "Netnut Unblocker Serp API Datasets: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-report-search-apis-in-2026-market-context",
+        "title": "New Report Search APIs In 2026",
+        "h1": "New Report Search APIs In 2026: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-report-web-scraping-apis-in-2025-market-context",
+        "title": "New Report Web Scraping APIs In 2025",
+        "h1": "New Report Web Scraping APIs In 2025: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-evomi-market-context",
+        "title": "New Review Evomi",
+        "h1": "New Review Evomi: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-hypeproxies-market-context",
+        "title": "New Review Hypeproxies",
+        "h1": "New Review Hypeproxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-live-proxy-market-context",
+        "title": "New Review Live Proxies",
+        "h1": "New Review Live Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-lunaproxy-market-context",
+        "title": "New Review Lunaproxy",
+        "h1": "New Review Lunaproxy: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-massive-market-context",
+        "title": "New Review Massive",
+        "h1": "New Review Massive: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-nimbleway-market-context",
+        "title": "New Review Nimbleway",
+        "h1": "New Review Nimbleway: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-nodemaven-market-context",
+        "title": "New Review Nodemaven",
+        "h1": "New Review Nodemaven: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-pia-s5-proxy-market-context",
+        "title": "New Review Pia S5 Proxies",
+        "h1": "New Review Pia S5 Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-ping-proxy-market-context",
+        "title": "New Review Ping Proxies",
+        "h1": "New Review Ping Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-proxyempire-market-context",
+        "title": "New Review Proxyempire",
+        "h1": "New Review Proxyempire: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/new-proxyrack-market-context",
+        "title": "New Review Proxyrack",
+        "h1": "New Review Proxyrack: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/nimble-raises-47m-to-build-web-search-for-ai-market-context",
+        "title": "Nimble Raises 47M To Build Web Search For Ai",
+        "h1": "Nimble Raises 47M To Build Web Search For Ai: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/nodemaven-introduces-cashback-proxy-quality-guarantee-market-context",
+        "title": "Nodemaven Introduces Cashback Proxy Quality Guarantee",
+        "h1": "Nodemaven Introduces Cashback Proxy Quality Guarantee: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/on-ethical-proxy-ip-acquisition-and-use-market-context",
+        "title": "On Ethical Proxy IP Acquisition And Use",
+        "h1": "On Ethical Proxy IP Acquisition And Use: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxycon-2023-recap-market-context",
+        "title": "Oxycon 2023 Recap",
+        "h1": "Oxycon 2023 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxycon-2024-recap-market-context",
+        "title": "Oxycon 2024 Recap",
+        "h1": "Oxycon 2024 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxycon-2025-recap-market-context",
+        "title": "Oxycon 2025 Recap",
+        "h1": "Oxycon 2025 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxycon-announces-2022-oxycon-market-context",
+        "title": "Oxycon Announces 2022 Oxycon",
+        "h1": "Oxycon Announces 2022 Oxycon: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxycon-day-1-recap-market-context",
+        "title": "Oxycon Day 1 Recap",
+        "h1": "Oxycon Day 1 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxycon-day-2-recap-market-context",
+        "title": "Oxycon Day 2 Recap",
+        "h1": "Oxycon Day 2 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-acquires-scrapingbee-market-context",
+        "title": "Oxylabs Acquires Scrapingbee",
+        "h1": "Oxylabs Acquires Scrapingbee: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-acquires-webshare-market-context",
+        "title": "Oxylabs Acquires Webshare",
+        "h1": "Oxylabs Acquires Webshare: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-announces-2024-oxycon-market-context",
+        "title": "Oxylabs Announces 2024 Oxycon",
+        "h1": "Oxylabs Announces 2024 Oxycon: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-announces-oxycon-2023-market-context",
+        "title": "Oxylabs Announces Oxycon 2023",
+        "h1": "Oxylabs Announces Oxycon 2023: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-announces-oxycon-2025-market-context",
+        "title": "Oxylabs Announces Oxycon 2025",
+        "h1": "Oxylabs Announces Oxycon 2025: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-announces-oxycon-2026-market-context",
+        "title": "Oxylabs Announces Oxycon 2026",
+        "h1": "Oxylabs Announces Oxycon 2026: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-cuts-mobile-proxy-prices-by-up-to-30-market-context",
+        "title": "Oxylabs Cuts Mobile Proxy Prices By Up To 30",
+        "h1": "Oxylabs Cuts Mobile Proxy Prices By Up To 30: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-cuts-prices-introduces-payg-market-context",
+        "title": "Oxylabs Cuts Prices Introduces Payg",
+        "h1": "Oxylabs Cuts Prices Introduces Payg: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-cuts-residential-proxy-prices-adds-coordinate-targeting-market-context",
+        "title": "Oxylabs Cuts Residential Proxy Prices Adds Coordinate Targeting",
+        "h1": "Oxylabs Cuts Residential Proxy Prices Adds Coordinate Targeting: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-cuts-residential-proxy-rates-20-percent-market-context",
+        "title": "Oxylabs Cuts Residential Proxy Rates 20 Percent",
+        "h1": "Oxylabs Cuts Residential Proxy Rates 20 Percent: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-dedicated-datacenter-self-market-context",
+        "title": "Oxylabs Dedicated Datacenter Self Service",
+        "h1": "Oxylabs Dedicated Datacenter Self Service: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-goes-on-offensive-against-bright-data-market-context",
+        "title": "Oxylabs Goes On Offensive Against Bright Data",
+        "h1": "Oxylabs Goes On Offensive Against Bright Data: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-introduces-new-plans-for-entry-level-and-enterprise-clients-market-context",
+        "title": "Oxylabs Introduces New Plans For Entry Level And Enterprise Clients",
+        "h1": "Oxylabs Introduces New Plans For Entry Level And Enterprise Clients: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-introduces-pay-as-you-go-market-context",
+        "title": "Oxylabs Introduces Pay As You Go",
+        "h1": "Oxylabs Introduces Pay As You Go: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-introduces-shared-datacenter-proxy-market-context",
+        "title": "Oxylabs Introduces Shared Datacenter Proxies",
+        "h1": "Oxylabs Introduces Shared Datacenter Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-invalidates-four-bright-data-patents-in-court-market-context",
+        "title": "Oxylabs Invalidates Four Bright Data Patents In Court",
+        "h1": "Oxylabs Invalidates Four Bright Data Patents In Court: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-launches-a-product-suite-for-video-data-market-context",
+        "title": "Oxylabs Launches A Product Suite For Video Data",
+        "h1": "Oxylabs Launches A Product Suite For Video Data: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-launches-chrome-extension-market-context",
+        "title": "Oxylabs Launches Chrome Extension",
+        "h1": "Oxylabs Launches Chrome Extension: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-launches-dedicated-isp-proxy-in-self-market-context",
+        "title": "Oxylabs Launches Dedicated ISP Proxies In Self Service",
+        "h1": "Oxylabs Launches Dedicated ISP Proxies In Self Service: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-launches-isp-proxy-market-context",
+        "title": "Oxylabs Launches ISP Proxies",
+        "h1": "Oxylabs Launches ISP Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-launches-real-estate-scraper-api-market-context",
+        "title": "Oxylabs Launches Real Estate Scraper API",
+        "h1": "Oxylabs Launches Real Estate Scraper API: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-launches-web-unblocker-market-context",
+        "title": "Oxylabs Launches Web Unblocker",
+        "h1": "Oxylabs Launches Web Unblocker: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-lowers-mobile-proxy-prices-market-context",
+        "title": "Oxylabs Lowers Mobile Proxy Prices",
+        "h1": "Oxylabs Lowers Mobile Proxy Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-real-time-crawler-browser-integration-market-context",
+        "title": "Oxylabs Real Time Crawler Browser Integration",
+        "h1": "Oxylabs Real Time Crawler Browser Integration: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-reveals-2024-oxycons-agenda-market-context",
+        "title": "Oxylabs Reveals 2024 Oxycons Agenda",
+        "h1": "Oxylabs Reveals 2024 Oxycons Agenda: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-reveals-2025-oxycon-agenda-market-context",
+        "title": "Oxylabs Reveals 2025 Oxycon Agenda",
+        "h1": "Oxylabs Reveals 2025 Oxycon Agenda: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-reveals-oxycon-agenda-market-context",
+        "title": "Oxylabs Reveals Oxycon Agenda",
+        "h1": "Oxylabs Reveals Oxycon Agenda: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-self-new-plans-web-scrapers-market-context",
+        "title": "Oxylabs Self Service New Plans Web Scrapers",
+        "h1": "Oxylabs Self Service New Plans Web Scrapers: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-signs-exclusive-contract-with-honeygain-market-context",
+        "title": "Oxylabs Signs Exclusive Contract With Honeygain",
+        "h1": "Oxylabs Signs Exclusive Contract With Honeygain: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-starts-selling-datasets-market-context",
+        "title": "Oxylabs Starts Selling Datasets",
+        "h1": "Oxylabs Starts Selling Datasets: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-unifies-scraper-line-up-introduces-ai-copilot-market-context",
+        "title": "Oxylabs Unifies Scraper Line Up Introduces Ai Copilot",
+        "h1": "Oxylabs Unifies Scraper Line Up Introduces Ai Copilot: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-virtual-web-scraping-conference-market-context",
+        "title": "Oxylabs Virtual Web Scraping Conference",
+        "h1": "Oxylabs Virtual Web Scraping Conference: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/oxylabs-webinar-legality-of-web-scraping-market-context",
+        "title": "Oxylabs Webinar Legality Of Web Scraping",
+        "h1": "Oxylabs Webinar Legality Of Web Scraping: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/ping-proxy-rebrands-becomes-byteful-market-context",
+        "title": "Ping Proxies Rebrands Becomes Byteful",
+        "h1": "Ping Proxies Rebrands Becomes Byteful: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/proxy-ethicality-interview-with-blazing-seo-market-context",
+        "title": "Proxy Ethicality Interview With Blazing SEO",
+        "h1": "Proxy Ethicality Interview With Blazing SEO: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/proxy-ethicality-interview-with-soax-market-context",
+        "title": "Proxy Ethicality Interview With Soax",
+        "h1": "Proxy Ethicality Interview With Soax: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/proxy-market-research-2025-is-available-market-context",
+        "title": "Proxy Market Research 2025 Is Available",
+        "h1": "Proxy Market Research 2025 Is Available: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/proxy-market-research-2026-is-available-market-context",
+        "title": "Proxy Market Research 2026 Is Available",
+        "h1": "Proxy Market Research 2026 Is Available: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/proxy-market-updates-market-context",
+        "title": "Proxy Market Updates",
+        "h1": "Proxy Market Updates: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/proxy-panels-reselling-interview-with-rampage-proxy-market-context",
+        "title": "Proxy Panels Reselling Interview With Rampage Proxies",
+        "h1": "Proxy Panels Reselling Interview With Rampage Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/proxy-providers-stand-with-ukraine-market-context",
+        "title": "Proxy Providers Stand With Ukraine",
+        "h1": "Proxy Providers Stand With Ukraine: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/rayobyte-abuse-prevention-whitepaper-market-context",
+        "title": "Rayobyte Abuse Prevention Whitepaper",
+        "h1": "Rayobyte Abuse Prevention Whitepaper: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/rayobyte-rebrands-launches-three-new-products-market-context",
+        "title": "Rayobyte Rebrands Launches Three New Products",
+        "h1": "Rayobyte Rebrands Launches Three New Products: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/rayobyte-residential-price-cut-subscription-market-context",
+        "title": "Rayobyte Residential Price Cut Subscription",
+        "h1": "Rayobyte Residential Price Cut Subscription: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/rayobyte-simplifies-reduces-residential-proxy-prices-market-context",
+        "title": "Rayobyte Simplifies Reduces Residential Proxy Prices",
+        "h1": "Rayobyte Simplifies Reduces Residential Proxy Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/rayobyte-slashes-mobile-proxy-rates-by-up-to-98-market-context",
+        "title": "Rayobyte Slashes Mobile Proxy Rates By Up To 98",
+        "h1": "Rayobyte Slashes Mobile Proxy Rates By Up To 98: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/reddit-sues-perplexity-oxylabs-two-more-web-data-providers-market-context",
+        "title": "Reddit Sues Perplexity Oxylabs Two More Web Data Providers",
+        "h1": "Reddit Sues Perplexity Oxylabs Two More Web Data Providers: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/scrapecon-2024-recap-market-context",
+        "title": "Scrapecon 2024 Recap",
+        "h1": "Scrapecon 2024 Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/scrapingbee-launches-fast-search-api-market-context",
+        "title": "Scrapingbee Launches Fast Search API",
+        "h1": "Scrapingbee Launches Fast Search API: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/scrapinghub-becomes-zyte-releases-no-code-scraping-tool-market-context",
+        "title": "Scrapinghub Becomes Zyte Releases No Code Scraping Tool",
+        "h1": "Scrapinghub Becomes Zyte Releases No Code Scraping Tool: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-acquires-serpmaster-market-context",
+        "title": "Smartproxy Acquires Serpmaster",
+        "h1": "Smartproxy Acquires Serpmaster: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-adds-shared-isp-proxy-cuts-mobile-proxy-rates-market-context",
+        "title": "Smartproxy Adds Shared ISP Proxies Cuts Mobile Proxy Rates",
+        "h1": "Smartproxy Adds Shared ISP Proxies Cuts Mobile Proxy Rates: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-adds-wallet-functionality-more-datacenter-locations-free-trial-market-context",
+        "title": "Smartproxy Adds Wallet Functionality More Datacenter Locations Free Trial",
+        "h1": "Smartproxy Adds Wallet Functionality More Datacenter Locations Free Trial: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-ecommerce-maturity-index-market-context",
+        "title": "Smartproxy Ecommerce Maturity Index",
+        "h1": "Smartproxy Ecommerce Maturity Index: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-introduces-pay-as-you-go-market-context",
+        "title": "Smartproxy Introduces Pay As You Go",
+        "h1": "Smartproxy Introduces Pay As You Go: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-anonymous-browser-market-context",
+        "title": "Smartproxy Launches Anonymous Browser",
+        "h1": "Smartproxy Launches Anonymous Browser: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-core-scraping-apis-market-context",
+        "title": "Smartproxy Launches Core Scraping APIs",
+        "h1": "Smartproxy Launches Core Scraping APIs: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-dedicated-isp-proxy-market-context",
+        "title": "Smartproxy Launches Dedicated ISP Proxies",
+        "h1": "Smartproxy Launches Dedicated ISP Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-isp-proxy-socks5-for-more-products-market-context",
+        "title": "Smartproxy Launches ISP Proxies SOCKS5 For More Products",
+        "h1": "Smartproxy Launches ISP Proxies SOCKS5 For More Products: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-mobile-proxy-social-media-scraping-api-market-context",
+        "title": "Smartproxy Launches Mobile Proxies Social Media Scraping API",
+        "h1": "Smartproxy Launches Mobile Proxies Social Media Scraping API: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-search-engine-proxy-market-context",
+        "title": "Smartproxy Launches Search Engine Proxies",
+        "h1": "Smartproxy Launches Search Engine Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-site-unblocker-market-context",
+        "title": "Smartproxy Launches Site Unblocker",
+        "h1": "Smartproxy Launches Site Unblocker: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-three-new-scraping-tools-market-context",
+        "title": "Smartproxy Launches Three New Scraping Tools",
+        "h1": "Smartproxy Launches Three New Scraping Tools: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-launches-visual-web-scraper-market-context",
+        "title": "Smartproxy Launches Visual Web Scraper",
+        "h1": "Smartproxy Launches Visual Web Scraper: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-makes-mobile-proxy-up-to-53-cheaper-market-context",
+        "title": "Smartproxy Makes Mobile Proxies Up To 53 Cheaper",
+        "h1": "Smartproxy Makes Mobile Proxies Up To 53 Cheaper: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-mobile-price-cuts-pay-go-market-context",
+        "title": "Smartproxy Mobile Price Cuts Pay Go",
+        "h1": "Smartproxy Mobile Price Cuts Pay Go: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-pay-per-ip-shared-proxy-market-context",
+        "title": "Smartproxy Pay Per IP Shared Proxies",
+        "h1": "Smartproxy Pay Per IP Shared Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-rebrands-becomes-decodo-market-context",
+        "title": "Smartproxy Rebrands Becomes Decodo",
+        "h1": "Smartproxy Rebrands Becomes Decodo: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-slashes-residential-proxy-prices-again-market-context",
+        "title": "Smartproxy Slashes Residential Proxy Prices Again",
+        "h1": "Smartproxy Slashes Residential Proxy Prices Again: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-starts-offering-dedicated-datacenter-proxy-market-context",
+        "title": "Smartproxy Starts Offering Dedicated Datacenter Proxies",
+        "h1": "Smartproxy Starts Offering Dedicated Datacenter Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-temporarily-cuts-residential-proxy-prices-market-context",
+        "title": "Smartproxy Temporarily Cuts Residential Proxy Prices",
+        "h1": "Smartproxy Temporarily Cuts Residential Proxy Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/smartproxy-us-states-rotation-time-market-context",
+        "title": "Smartproxy US States Rotation Time",
+        "h1": "Smartproxy US States Rotation Time: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-acquires-proxywow-market-context",
+        "title": "Soax Acquires Proxywow",
+        "h1": "Soax Acquires Proxywow: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-acquires-rampage-proxy-market-context",
+        "title": "Soax Acquires Rampage Proxies",
+        "h1": "Soax Acquires Rampage Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-cuts-prices-single-country-pools-market-context",
+        "title": "Soax Cuts Prices Single Country Pools",
+        "h1": "Soax Cuts Prices Single Country Pools: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-increases-proxy-pool-by-22-times-market-context",
+        "title": "Soax Increases Proxy Pool By 22 Times",
+        "h1": "Soax Increases Proxy Pool By 22 Times: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-launches-podcast-ethical-data-collection-market-context",
+        "title": "Soax Launches Podcast Ethical Data Collection",
+        "h1": "Soax Launches Podcast Ethical Data Collection: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-launches-rotating-isp-proxy-market-context",
+        "title": "Soax Launches Rotating ISP Proxies",
+        "h1": "Soax Launches Rotating ISP Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-reduces-prices-introduces-pay-go-market-context",
+        "title": "Soax Reduces Prices Introduces Pay Go",
+        "h1": "Soax Reduces Prices Introduces Pay Go: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-relaunches-web-unblocker-market-context",
+        "title": "Soax Relaunches Web Unblocker",
+        "h1": "Soax Relaunches Web Unblocker: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-scraping-apis-web-unblocker-market-context",
+        "title": "Soax Scraping APIs Web Unblocker",
+        "h1": "Soax Scraping APIs Web Unblocker: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/soax-starts-offering-datacenter-proxy-market-context",
+        "title": "Soax Starts Offering Datacenter Proxies",
+        "h1": "Soax Starts Offering Datacenter Proxies: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/survey-on-proxy-use-market-context",
+        "title": "Survey On Proxy Use",
+        "h1": "Survey On Proxy Use: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/twitter-sues-bright-data-market-context",
+        "title": "Twitter Sues Bright Data",
+        "h1": "Twitter Sues Bright Data: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/webshare-cuts-prices-market-context",
+        "title": "Webshare Cuts Prices",
+        "h1": "Webshare Cuts Prices: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-2022-extract-summit-recap-market-context",
+        "title": "Zyte 2022 Extract Summit Recap",
+        "h1": "Zyte 2022 Extract Summit Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-2023-extract-summit-market-context",
+        "title": "Zyte 2023 Extract Summit",
+        "h1": "Zyte 2023 Extract Summit: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-api-ai-scraping-market-context",
+        "title": "Zyte API Ai Scraping",
+        "h1": "Zyte API Ai Scraping: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-extract-summit-market-context",
+        "title": "Zyte Extract Summit",
+        "h1": "Zyte Extract Summit: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-extract-summit-2025-austin-recap-market-context",
+        "title": "Zyte Extract Summit 2025 Austin Recap",
+        "h1": "Zyte Extract Summit 2025 Austin Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-extract-summit-2025-dublin-recap-market-context",
+        "title": "Zyte Extract Summit 2025 Dublin Recap",
+        "h1": "Zyte Extract Summit 2025 Dublin Recap: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-officially-launches-zyte-api-market-context",
+        "title": "Zyte Officially Launches Zyte API",
+        "h1": "Zyte Officially Launches Zyte API: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-publishes-2026-web-scraping-industry-report-market-context",
+        "title": "Zyte Publishes 2026 Web Scraping Industry Report",
+        "h1": "Zyte Publishes 2026 Web Scraping Industry Report: Proxy Market Context and Takeaways"
+      },
+      {
+        "href": "/market-updates/zyte-web-scraping-conference-2022-market-context",
+        "title": "Zyte Web Scraping Conference 2022",
+        "h1": "Zyte Web Scraping Conference 2022: Proxy Market Context and Takeaways"
+      }
+    ]
+  },
+  {
+    "type": "review",
+    "label": "Provider Analysis",
+    "href": "/proxy-provider-analysis",
+    "items": [
+      {
+        "href": "/proxy-provider-analysis/asocks-proxy-service-breakdown",
+        "title": "Asocks Proxies",
+        "h1": "Asocks Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/astroproxy-proxy-service-breakdown",
+        "title": "Astroproxy Proxies",
+        "h1": "Astroproxy Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/brazykicks-proxy-service-breakdown",
+        "title": "Brazykicks Proxies",
+        "h1": "Brazykicks Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/bright-data-proxy-service-breakdown",
+        "title": "Bright Data Proxies",
+        "h1": "Bright Data Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/coresignal-service-breakdown",
+        "title": "Coresignal Review",
+        "h1": "Coresignal Review Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/crawlera-service-breakdown",
+        "title": "Crawlera",
+        "h1": "Crawlera Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/dataimpulse-proxy-service-breakdown",
+        "title": "Dataimpulse Proxies",
+        "h1": "Dataimpulse Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/evomi-service-breakdown",
+        "title": "Evomi Review",
+        "h1": "Evomi Review Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/geelark-service-breakdown",
+        "title": "Geelark Review",
+        "h1": "Geelark Review Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/geosurf-proxy-service-breakdown",
+        "title": "Geosurf Proxies",
+        "h1": "Geosurf Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/gologin-service-breakdown",
+        "title": "Gologin",
+        "h1": "Gologin Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/hypeproxies-service-breakdown",
+        "title": "Hypeproxies Review",
+        "h1": "Hypeproxies Review Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/icedout-proxy-service-breakdown",
+        "title": "Icedout Proxies",
+        "h1": "Icedout Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/infatica-service-breakdown",
+        "title": "Infatica",
+        "h1": "Infatica Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/iproyal-proxy-service-breakdown",
+        "title": "Iproyal Proxies",
+        "h1": "Iproyal Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/liveproxies-proxy-service-breakdown",
+        "title": "Liveproxies Proxies",
+        "h1": "Liveproxies Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/lunaproxy-proxy-service-breakdown",
+        "title": "Lunaproxy Proxies",
+        "h1": "Lunaproxy Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/massive-proxy-service-breakdown",
+        "title": "Massive Proxies",
+        "h1": "Massive Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/multilogin-service-breakdown",
+        "title": "Multilogin",
+        "h1": "Multilogin Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/myprivateproxy-proxy-service-breakdown",
+        "title": "Myprivateproxy Proxies",
+        "h1": "Myprivateproxy Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/netnut-proxy-service-breakdown",
+        "title": "Netnut Proxies",
+        "h1": "Netnut Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/nimbleway-service-breakdown",
+        "title": "Nimbleway Review",
+        "h1": "Nimbleway Review Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/nodemaven-proxy-service-breakdown",
+        "title": "Nodemaven Proxies",
+        "h1": "Nodemaven Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/oxylabs-proxy-service-breakdown",
+        "title": "Oxylabs Proxies",
+        "h1": "Oxylabs Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/packetstream-proxy-service-breakdown",
+        "title": "Packetstream Proxies",
+        "h1": "Packetstream Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/pia-s5-proxy-service-breakdown",
+        "title": "Pia S5 Proxies",
+        "h1": "Pia S5 Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/ping-proxy-service-breakdown",
+        "title": "Ping Proxies",
+        "h1": "Ping Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/proxy-provider-service-breakdown",
+        "title": "Proxy Provider Reviews",
+        "h1": "Proxy Provider Reviews Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/proxy-seller-proxy-service-breakdown",
+        "title": "Proxy Seller Proxies",
+        "h1": "Proxy Seller Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/proxyempire-proxy-service-breakdown",
+        "title": "Proxyempire Proxies",
+        "h1": "Proxyempire Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/proxyrack-proxy-service-breakdown",
+        "title": "Proxyrack Proxies",
+        "h1": "Proxyrack Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/rayobyte-proxy-service-breakdown",
+        "title": "Rayobyte Proxies",
+        "h1": "Rayobyte Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/shifter-proxy-service-breakdown",
+        "title": "Shifter Proxies",
+        "h1": "Shifter Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/smartproxy-proxy-service-breakdown",
+        "title": "Smartproxy Proxies",
+        "h1": "Smartproxy Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/soax-proxy-service-breakdown",
+        "title": "Soax Proxies",
+        "h1": "Soax Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/storm-proxy-service-breakdown",
+        "title": "Storm Proxies",
+        "h1": "Storm Proxies Analysis for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/proxy-provider-analysis/webshare-proxy-service-breakdown",
+        "title": "Webshare Proxies",
+        "h1": "Webshare Proxies Analysis for Proxy Buyers in 2026"
+      }
+    ]
+  },
+  {
+    "type": "ranking",
+    "label": "Rankings",
+    "href": "/rankings",
+    "items": [
+      {
+        "href": "/rankings/ai-web-scrapers-service-roundup",
+        "title": "Ai Web Scrapers",
+        "h1": "Best Ai Web Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/amazon-proxy-service-roundup",
+        "title": "Amazon Proxy",
+        "h1": "Best Amazon Proxy Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/antidetect-browsers-service-roundup",
+        "title": "Antidetect Browsers",
+        "h1": "Best Antidetect Browsers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/amazon-scrapers-service-roundup",
+        "title": "Best Amazon Scrapers",
+        "h1": "Best Best Amazon Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/patreon-scraper-service-roundup",
+        "title": "Best Patreon Scraper",
+        "h1": "Best Best Patreon Scraper Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/shein-web-scrapers-service-roundup",
+        "title": "Best Shein Web Scrapers",
+        "h1": "Best Best Shein Web Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/web-scraping-apis-service-roundup",
+        "title": "Best Web Scraping APIs",
+        "h1": "Best Best Web Scraping APIs Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/zillow-scrapers-service-roundup",
+        "title": "Best Zillow Scrapers",
+        "h1": "Best Best Zillow Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/browser-proxy-extensions-service-roundup",
+        "title": "Browser Proxy Extensions",
+        "h1": "Best Browser Proxy Extensions Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/company-data-providers-service-roundup",
+        "title": "Company Data Providers",
+        "h1": "Best Company Data Providers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/craigslist-proxy-service-roundup",
+        "title": "Craigslist Proxies",
+        "h1": "Best Craigslist Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/datacenter-proxy-service-roundup",
+        "title": "Datacenter Proxies",
+        "h1": "Best Datacenter Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/ecommerce-product-data-providers-service-roundup",
+        "title": "Ecommerce Product Data Providers",
+        "h1": "Best Ecommerce Product Data Providers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/ecommerce-scrapers-service-roundup",
+        "title": "Ecommerce Scrapers",
+        "h1": "Best Ecommerce Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/facebook-proxy-service-roundup",
+        "title": "Facebook Proxies",
+        "h1": "Best Facebook Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/facebook-scraping-tools-service-roundup",
+        "title": "Facebook Scraping Tools",
+        "h1": "Best Facebook Scraping Tools Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/footsite-proxy-service-roundup",
+        "title": "Footsite Proxies",
+        "h1": "Best Footsite Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/free-proxy-list-service-roundup",
+        "title": "Free Proxy List",
+        "h1": "Best Free Proxy List Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/g2-web-scrapers-service-roundup",
+        "title": "G2 Web Scrapers",
+        "h1": "Best G2 Web Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/glassdoor-datasets-service-roundup",
+        "title": "Glassdoor Datasets",
+        "h1": "Best Glassdoor Datasets Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/google-maps-scrapers-service-roundup",
+        "title": "Google Maps Scrapers",
+        "h1": "Best Google Maps Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/indeed-scrapers-service-roundup",
+        "title": "Indeed Scrapers",
+        "h1": "Best Indeed Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/instagram-proxy-service-roundup",
+        "title": "Instagram Proxy",
+        "h1": "Best Instagram Proxy Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/instagram-scrapers-service-roundup",
+        "title": "Instagram Scrapers",
+        "h1": "Best Instagram Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/isp-proxy-service-roundup",
+        "title": "ISP Proxies",
+        "h1": "Best ISP Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/job-posting-data-service-roundup",
+        "title": "Job Posting Data",
+        "h1": "Best Job Posting Data Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/mcp-servers-for-web-scraping-service-roundup",
+        "title": "Mcp Servers For Web Scraping",
+        "h1": "Best Mcp Servers For Web Scraping Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/mobile-proxy-service-roundup",
+        "title": "Mobile Proxy",
+        "h1": "Best Mobile Proxy Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/nike-proxy-service-roundup",
+        "title": "Nike Proxy",
+        "h1": "Best Nike Proxy Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/nike-snkrs-bots-service-roundup",
+        "title": "Nike Snkrs Bots",
+        "h1": "Best Nike Snkrs Bots Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/no-code-web-scrapers-service-roundup",
+        "title": "No Code Web Scrapers",
+        "h1": "Best No Code Web Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/price-scraping-tools-service-roundup",
+        "title": "Price Scraping Tools",
+        "h1": "Best Price Scraping Tools Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/private-proxy-service-roundup",
+        "title": "Private Proxy",
+        "h1": "Best Private Proxy Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/proxy-for-ad-verification-service-roundup",
+        "title": "Proxies For Ad Verification",
+        "h1": "Best Proxies For Ad Verification Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/proxy-for-android-service-roundup",
+        "title": "Proxies For Android",
+        "h1": "Best Proxies For Android Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/proxy-for-google-scraping-service-roundup",
+        "title": "Proxies For Google Scraping",
+        "h1": "Best Proxies For Google Scraping Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/proxy-for-tiktok-service-roundup",
+        "title": "Proxies For Tiktok",
+        "h1": "Best Proxies For Tiktok Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/proxy-providers-service-roundup",
+        "title": "Proxy Service Providers",
+        "h1": "Best Proxy Service Providers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/proxy-rankings-service-roundup",
+        "title": "Proxy Service Rankings",
+        "h1": "Best Proxy Service Rankings Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/residential-proxy-service-roundup",
+        "title": "Residential Proxies",
+        "h1": "Best Residential Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/rotating-proxy-service-roundup",
+        "title": "Rotating Proxies",
+        "h1": "Best Rotating Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/sales-datasets-service-roundup",
+        "title": "Sales Datasets",
+        "h1": "Best Sales Datasets Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/scrapebox-proxy-service-roundup",
+        "title": "Scrapebox Proxies",
+        "h1": "Best Scrapebox Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/scraping-browsers-service-roundup",
+        "title": "Scraping Browsers",
+        "h1": "Best Scraping Browsers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/seo-proxy-service-roundup",
+        "title": "SEO Proxies",
+        "h1": "Best SEO Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/serp-api-service-roundup",
+        "title": "Serp API",
+        "h1": "Best Serp API Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/shared-proxy-service-roundup",
+        "title": "Shared Proxies",
+        "h1": "Best Shared Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/shopify-bots-service-roundup",
+        "title": "Shopify Bots",
+        "h1": "Best Shopify Bots Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/sneaker-bots-service-roundup",
+        "title": "Sneaker Bots",
+        "h1": "Best Sneaker Bots Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/sneaker-bots-for-mac-service-roundup",
+        "title": "Sneaker Bots For Mac",
+        "h1": "Best Sneaker Bots For Mac Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/sneaker-proxy-service-roundup",
+        "title": "Sneaker Proxies",
+        "h1": "Best Sneaker Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/social-media-proxy-service-roundup",
+        "title": "Social Media Proxies",
+        "h1": "Best Social Media Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/social-media-scrapers-service-roundup",
+        "title": "Social Media Scrapers",
+        "h1": "Best Social Media Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/socks5-proxy-service-roundup",
+        "title": "SOCKS5 Proxies",
+        "h1": "Best SOCKS5 Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/static-residential-proxy-service-roundup",
+        "title": "Static Residential Proxies",
+        "h1": "Best Static Residential Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/supreme-bots-service-roundup",
+        "title": "Supreme Bots",
+        "h1": "Best Supreme Bots Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/supreme-proxy-service-roundup",
+        "title": "Supreme Proxy",
+        "h1": "Best Supreme Proxy Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/tiktok-scrapers-service-roundup",
+        "title": "Tiktok Scrapers",
+        "h1": "Best Tiktok Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/twitter-proxy-service-roundup",
+        "title": "Twitter Proxy",
+        "h1": "Best Twitter Proxy Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/walmart-scrapers-service-roundup",
+        "title": "Walmart Scrapers",
+        "h1": "Best Walmart Scrapers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/web-scraping-proxy-service-roundup",
+        "title": "Web Scraping Proxies",
+        "h1": "Best Web Scraping Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/web-scraping-service-roundup",
+        "title": "Web Scraping Services",
+        "h1": "Best Web Scraping Services Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/web-scraping-tools-service-roundup",
+        "title": "Web Scraping Tools",
+        "h1": "Best Web Scraping Tools Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/web-unblockers-service-roundup",
+        "title": "Web Unblockers",
+        "h1": "Best Web Unblockers Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/yeezy-proxy-service-roundup",
+        "title": "Yeezy Proxies",
+        "h1": "Best Yeezy Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/yeezy-supply-bots-service-roundup",
+        "title": "Yeezy Supply Bots",
+        "h1": "Best Yeezy Supply Bots Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/youtube-proxy-service-roundup",
+        "title": "Youtube Proxies",
+        "h1": "Best Youtube Proxies Options for Proxy Buyers in 2026"
+      },
+      {
+        "href": "/rankings/youtube-scrapers-service-roundup",
+        "title": "Youtube Scrapers",
+        "h1": "Best Youtube Scrapers Options for Proxy Buyers in 2026"
+      }
+    ]
+  },
+  {
+    "type": "research",
+    "label": "Research",
+    "href": "/research",
+    "items": [
+      {
+        "href": "/research/comparing-popular-web-scraping-proxy-apis-industry-analysis",
+        "title": "Comparing Popular Web Scraping Proxy APIs",
+        "h1": "Comparing Popular Web Scraping Proxy APIs: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/internet-sharing-sdks-app-monetization-industry-analysis",
+        "title": "Internet Sharing Sdks App Monetization",
+        "h1": "Internet Sharing Sdks App Monetization: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/isp-proxy-research-industry-analysis",
+        "title": "ISP Proxy Research",
+        "h1": "ISP Proxy Research: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/market-research-industry-analysis",
+        "title": "Market Research",
+        "h1": "Market Research: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/market-research-2021-key-findings-industry-analysis",
+        "title": "Market Research 2021 Key Findings",
+        "h1": "Market Research 2021 Key Findings: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-apis-web-unblockers-industry-analysis",
+        "title": "Proxy APIs Web Unblockers",
+        "h1": "Proxy APIs Web Unblockers: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-industry-analysis",
+        "title": "Proxy Market Research",
+        "h1": "Proxy Market Research: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-2020-industry-analysis",
+        "title": "Proxy Market Research 2020",
+        "h1": "Proxy Market Research 2020: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-2021-industry-analysis",
+        "title": "Proxy Market Research 2021",
+        "h1": "Proxy Market Research 2021: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-2022-industry-analysis",
+        "title": "Proxy Market Research 2022",
+        "h1": "Proxy Market Research 2022: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-2023-industry-analysis",
+        "title": "Proxy Market Research 2023",
+        "h1": "Proxy Market Research 2023: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-2024-industry-analysis",
+        "title": "Proxy Market Research 2024",
+        "h1": "Proxy Market Research 2024: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-2025-industry-analysis",
+        "title": "Proxy Market Research 2025",
+        "h1": "Proxy Market Research 2025: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-market-research-2026-industry-analysis",
+        "title": "Proxy Market Research 2026",
+        "h1": "Proxy Market Research 2026: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-awards-2019-industry-analysis",
+        "title": "Proxy Service Awards 2019",
+        "h1": "Proxy Service Awards 2019: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-awards-2020-industry-analysis",
+        "title": "Proxy Service Awards 2020",
+        "h1": "Proxy Service Awards 2020: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-awards-2021-industry-analysis",
+        "title": "Proxy Service Awards 2021",
+        "h1": "Proxy Service Awards 2021: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-awards-2022-industry-analysis",
+        "title": "Proxy Service Awards 2022",
+        "h1": "Proxy Service Awards 2022: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-awards-2023-industry-analysis",
+        "title": "Proxy Service Awards 2023",
+        "h1": "Proxy Service Awards 2023: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-awards-2024-industry-analysis",
+        "title": "Proxy Service Awards 2024",
+        "h1": "Proxy Service Awards 2024: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxy-awards-2025-industry-analysis",
+        "title": "Proxy Service Awards 2025",
+        "h1": "Proxy Service Awards 2025: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/proxyware-passive-income-apps-industry-analysis",
+        "title": "Proxyware Passive Income Apps",
+        "h1": "Proxyware Passive Income Apps: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/search-apis-2026-report-industry-analysis",
+        "title": "Search APIs 2026 Report",
+        "h1": "Search APIs 2026 Report: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/we-tested-smartproxyorg-ip-pool-findings-industry-analysis",
+        "title": "We Tested Smartproxyorg IP Pool Findings",
+        "h1": "We Tested Smartproxyorg IP Pool Findings: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/web-scraping-api-report-2025-industry-analysis",
+        "title": "Web Scraping API Report 2025",
+        "h1": "Web Scraping API Report 2025: Proxy Market Research Notes"
+      },
+      {
+        "href": "/research/web-scraping-apis-industry-analysis",
+        "title": "Web Scraping APIs",
+        "h1": "Web Scraping APIs: Proxy Market Research Notes"
+      }
+    ]
+  },
+  {
+    "type": "guide",
+    "label": "Resources",
+    "href": "/resources",
+    "items": [
+      {
+        "href": "/resources/aio-bot-proxy-playbook",
+        "title": "Aio Bot Review",
+        "h1": "Aio Bot Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/amazon-stealth-account-proxy-playbook",
+        "title": "Amazon Stealth Account",
+        "h1": "Amazon Stealth Account: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/android-proxy-settings-proxy-playbook",
+        "title": "Android Proxy Settings",
+        "h1": "Android Proxy Settings: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/another-nike-bot-proxy-playbook",
+        "title": "Another Nike Bot Review",
+        "h1": "Another Nike Bot Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/backconnect-proxy-proxy-playbook",
+        "title": "Backconnect Proxies",
+        "h1": "Backconnect Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/balkobot-proxy-playbook",
+        "title": "Balkobot Review",
+        "h1": "Balkobot Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/programming-languages-for-web-scraping-proxy-playbook",
+        "title": "Best Programming Languages For Web Scraping",
+        "h1": "Best Programming Languages For Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/websites-to-practice-your-web-scraping-skills-proxy-playbook",
+        "title": "Best Websites To Practice Your Web Scraping Skills",
+        "h1": "Best Websites To Practice Your Web Scraping Skills: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/better-nike-bot-proxy-playbook",
+        "title": "Better Nike Bot Review",
+        "h1": "Better Nike Bot Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/captcha-proxy-proxy-playbook",
+        "title": "Captcha Proxies",
+        "h1": "Captcha Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/chatgpt-web-scraping-proxy-playbook",
+        "title": "Chatgpt Web Scraping",
+        "h1": "Chatgpt Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/cheerio-vs-puppeteer-for-web-scraping-proxy-playbook",
+        "title": "Cheerio Vs Puppeteer For Web Scraping",
+        "h1": "Cheerio Vs Puppeteer For Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/cheerio-web-scraping-a-tutorial-proxy-playbook",
+        "title": "Cheerio Web Scraping A Tutorial",
+        "h1": "Cheerio Web Scraping A Tutorial: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/chrome-proxy-settings-proxy-playbook",
+        "title": "Chrome Proxy Settings",
+        "h1": "Chrome Proxy Settings: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/configure-proxy-iphone-proxy-playbook",
+        "title": "Configure Proxy Iphone",
+        "h1": "Configure Proxy Iphone: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/cook-group-proxy-playbook",
+        "title": "Cook Group",
+        "h1": "Cook Group: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/copping-shoes-the-guide-proxy-playbook",
+        "title": "Copping Shoes The Guide",
+        "h1": "Copping Shoes The Guide: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/covid-19-research-proxy-playbook",
+        "title": "Covid 19 Research",
+        "h1": "Covid 19 Research: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/curl-vs-wget-proxy-playbook",
+        "title": "Curl Vs Wget",
+        "h1": "Curl Vs Wget: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/curl-with-proxy-proxy-playbook",
+        "title": "Curl With Proxy",
+        "h1": "Curl With Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/cybersole-proxy-playbook",
+        "title": "Cybersole Review",
+        "h1": "Cybersole Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/datacenter-proxy-proxy-playbook",
+        "title": "Datacenter Proxies",
+        "h1": "Datacenter Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/datacenter-proxy-for-sneakers-proxy-playbook",
+        "title": "Datacenter Proxies For Sneakers",
+        "h1": "Datacenter Proxies For Sneakers: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/datasets-in-python-proxy-playbook",
+        "title": "Datasets In Python",
+        "h1": "Datasets In Python: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/dedicated-proxy-proxy-playbook",
+        "title": "Dedicated Proxies",
+        "h1": "Dedicated Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/easy-puppeteer-web-scraping-tutorial-proxy-playbook",
+        "title": "Easy Puppeteer Web Scraping Tutorial",
+        "h1": "Easy Puppeteer Web Scraping Tutorial: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/ebay-stealth-account-proxy-playbook",
+        "title": "Ebay Stealth Account",
+        "h1": "Ebay Stealth Account: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/elite-proxy-proxy-playbook",
+        "title": "Elite Proxies",
+        "h1": "Elite Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/firefox-proxy-setup-proxy-playbook",
+        "title": "Firefox Proxy Setup",
+        "h1": "Firefox Proxy Setup: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/foxyproxy-chrome-firefox-proxy-playbook",
+        "title": "Foxyproxy Chrome Firefox",
+        "h1": "Foxyproxy Chrome Firefox: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/holavpn-luminati-proxy-playbook",
+        "title": "Holavpn Luminati",
+        "h1": "Holavpn Luminati: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-bypass-captcha-proxy-playbook",
+        "title": "How To Bypass Captcha",
+        "h1": "How To Bypass Captcha: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-bypass-cloudflare-proxy-playbook",
+        "title": "How To Bypass Cloudflare",
+        "h1": "How To Bypass Cloudflare: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-choose-a-proxy-proxy-playbook",
+        "title": "How To Choose A Proxy Service",
+        "h1": "How To Choose A Proxy Service: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-cop-yeezys-proxy-playbook",
+        "title": "How To Cop Yeezys",
+        "h1": "How To Cop Yeezys: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-create-multiple-facebook-accounts-proxy-playbook",
+        "title": "How To Create Multiple Facebook Accounts",
+        "h1": "How To Create Multiple Facebook Accounts: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-follow-redirects-with-curl-proxy-playbook",
+        "title": "How To Follow Redirects With Curl",
+        "h1": "How To Follow Redirects With Curl: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-get-sneaker-bot-proxy-playbook",
+        "title": "How To Get Sneaker Bot",
+        "h1": "How To Get Sneaker Bot: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-inspect-element-proxy-playbook",
+        "title": "How To Inspect Element",
+        "h1": "How To Inspect Element: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-jig-an-address-proxy-playbook",
+        "title": "How To Jig An Address",
+        "h1": "How To Jig An Address: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-manage-multiple-discord-accounts-proxy-playbook",
+        "title": "How To Manage Multiple Discord Accounts",
+        "h1": "How To Manage Multiple Discord Accounts: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-manage-multiple-tiktok-accounts-proxy-playbook",
+        "title": "How To Manage Multiple Tiktok Accounts",
+        "h1": "How To Manage Multiple Tiktok Accounts: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-manage-social-media-accounts-for-multiple-clients-proxy-playbook",
+        "title": "How To Manage Social Media Accounts For Multiple Clients",
+        "h1": "How To Manage Social Media Accounts For Multiple Clients: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-scrape-chatgpt-proxy-playbook",
+        "title": "How To Scrape Chatgpt",
+        "h1": "How To Scrape Chatgpt: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-scrape-facebook-proxy-playbook",
+        "title": "How To Scrape Facebook",
+        "h1": "How To Scrape Facebook: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-scrape-google-search-results-proxy-playbook",
+        "title": "How To Scrape Google Search Results",
+        "h1": "How To Scrape Google Search Results: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-scrape-instagram-proxy-playbook",
+        "title": "How To Scrape Instagram",
+        "h1": "How To Scrape Instagram: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-scrape-reddit-with-python-proxy-playbook",
+        "title": "How To Scrape Reddit With Python",
+        "h1": "How To Scrape Reddit With Python: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-scrape-twitter-proxy-playbook",
+        "title": "How To Scrape Twitter",
+        "h1": "How To Scrape Twitter: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-surf-the-web-anonymously-proxy-playbook",
+        "title": "How To Surf The Web Anonymously",
+        "h1": "How To Surf The Web Anonymously: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-test-proxy-proxy-playbook",
+        "title": "How To Test Proxies",
+        "h1": "How To Test Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-unblock-instagram-proxy-playbook",
+        "title": "How To Unblock Instagram",
+        "h1": "How To Unblock Instagram: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-use-curl-with-python-proxy-playbook",
+        "title": "How To Use Curl With Python",
+        "h1": "How To Use Curl With Python: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-use-proxy-proxy-playbook",
+        "title": "How To Use Proxies",
+        "h1": "How To Use Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-use-proxy-with-python-requests-proxy-playbook",
+        "title": "How To Use Proxies With Python Requests",
+        "h1": "How To Use Proxies With Python Requests: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/how-to-use-proxifier-proxy-playbook",
+        "title": "How To Use Proxifier",
+        "h1": "How To Use Proxifier: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/instagram-ip-ban-proxy-playbook",
+        "title": "Instagram IP Ban",
+        "h1": "Instagram IP Ban: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/ipv4-vs-ipv6-proxy-proxy-playbook",
+        "title": "IPv4 Vs IPv6 Proxy",
+        "h1": "IPv4 Vs IPv6 Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/ipv6-proxy-guide-proxy-playbook",
+        "title": "IPv6 Proxy Guide",
+        "h1": "IPv6 Proxy Guide: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/is-sneaker-botting-worth-it-proxy-playbook",
+        "title": "Is Sneaker Botting Worth It",
+        "h1": "Is Sneaker Botting Worth It: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/isp-proxy-proxy-playbook",
+        "title": "ISP Proxies",
+        "h1": "ISP Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/jarvee-proxy-playbook",
+        "title": "Jarvee Review",
+        "h1": "Jarvee Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/kodai-bot-proxy-playbook",
+        "title": "Kodai Bot Review",
+        "h1": "Kodai Bot Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/mac-proxy-setup-proxy-playbook",
+        "title": "Mac Proxy Setup",
+        "h1": "Mac Proxy Setup: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/main-uses-of-web-scraping-proxy-playbook",
+        "title": "Main Uses Of Web Scraping",
+        "h1": "Main Uses Of Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/mcp-vs-api-proxy-playbook",
+        "title": "Mcp Vs API",
+        "h1": "Mcp Vs API: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/mobile-proxy-proxy-playbook",
+        "title": "Mobile Proxy",
+        "h1": "Mobile Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/nft-slang-proxy-playbook",
+        "title": "NFT Slang",
+        "h1": "NFT Slang: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/nike-shoe-bot-proxy-playbook",
+        "title": "Nike Shoe Bot Review",
+        "h1": "Nike Shoe Bot Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/octoparse-proxy-playbook",
+        "title": "Octoparse Review",
+        "h1": "Octoparse Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/open-proxy-instagram-error-proxy-playbook",
+        "title": "Open Proxy Instagram Error",
+        "h1": "Open Proxy Instagram Error: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/overview-of-social-media-automation-methods-proxy-playbook",
+        "title": "Overview Of Social Media Automation Methods",
+        "h1": "Overview Of Social Media Automation Methods: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/parsehub-proxy-playbook",
+        "title": "Parsehub Review",
+        "h1": "Parsehub Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/playwright-vs-puppeteer-for-web-scraping-proxy-playbook",
+        "title": "Playwright Vs Puppeteer For Web Scraping",
+        "h1": "Playwright Vs Puppeteer For Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/playwright-vs-selenium-proxy-playbook",
+        "title": "Playwright Vs Selenium",
+        "h1": "Playwright Vs Selenium: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/playwright-web-scraping-a-step-by-step-tutorial-proxy-playbook",
+        "title": "Playwright Web Scraping A Step By Step Tutorial",
+        "h1": "Playwright Web Scraping A Step By Step Tutorial: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/prism-bot-proxy-playbook",
+        "title": "Prism Bot Review",
+        "h1": "Prism Bot Review: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/proxy-anonymity-proxy-playbook",
+        "title": "Proxy Anonymity",
+        "h1": "Proxy Anonymity: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/proxy-guides-proxy-playbook",
+        "title": "Proxy Guides",
+        "h1": "Proxy Guides: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/proxy-pool-test-proxy-playbook",
+        "title": "Proxy Pool Test",
+        "h1": "Proxy Pool Test: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/proxy-switchyomega-chrome-proxy-playbook",
+        "title": "Proxy Switchyomega Chrome",
+        "h1": "Proxy Switchyomega Chrome: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/proxy-vs-vpn-proxy-playbook",
+        "title": "Proxy Vs Vpn",
+        "h1": "Proxy Vs Vpn: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/puppeteer-proxy-setup-proxy-playbook",
+        "title": "Puppeteer Proxy Setup",
+        "h1": "Puppeteer Proxy Setup: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/puppeteer-vs-selenium-proxy-playbook",
+        "title": "Puppeteer Vs Selenium",
+        "h1": "Puppeteer Vs Selenium: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/python-asynchronous-requests-a-web-scraping-tutorial-proxy-playbook",
+        "title": "Python Asynchronous Requests A Web Scraping Tutorial",
+        "h1": "Python Asynchronous Requests A Web Scraping Tutorial: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/python-web-scraping-libraries-proxy-playbook",
+        "title": "Python Web Scraping Libraries",
+        "h1": "Python Web Scraping Libraries: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/python-web-scraping-projects-proxy-playbook",
+        "title": "Python Web Scraping Projects",
+        "h1": "Python Web Scraping Projects: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/reasons-to-never-use-free-proxy-proxy-playbook",
+        "title": "Reasons To Never Use Free Proxy",
+        "h1": "Reasons To Never Use Free Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/reddit-proxy-proxy-playbook",
+        "title": "Reddit Proxies",
+        "h1": "Reddit Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/residential-proxy-proxy-playbook",
+        "title": "Residential Proxies",
+        "h1": "Residential Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/residential-vs-datacenter-proxy-proxy-playbook",
+        "title": "Residential Vs Datacenter Proxies",
+        "h1": "Residential Vs Datacenter Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/residential-vs-isp-proxy-proxy-playbook",
+        "title": "Residential Vs ISP Proxies",
+        "h1": "Residential Vs ISP Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/reverse-proxy-proxy-playbook",
+        "title": "Reverse Proxy",
+        "h1": "Reverse Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/rotating-proxy-proxy-playbook",
+        "title": "Rotating Proxies",
+        "h1": "Rotating Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/scrape-google-flights-proxy-playbook",
+        "title": "Scrape Google Flights",
+        "h1": "Scrape Google Flights: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/scrapy-vs-beautiful-soup-vs-selenium-proxy-playbook",
+        "title": "Scrapy Vs Beautiful Soup Vs Selenium",
+        "h1": "Scrapy Vs Beautiful Soup Vs Selenium: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/scrapy-vs-selenium-proxy-playbook",
+        "title": "Scrapy Vs Selenium",
+        "h1": "Scrapy Vs Selenium: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/screen-scraping-explained-proxy-playbook",
+        "title": "Screen Scraping Explained",
+        "h1": "Screen Scraping Explained: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/selenium-proxy-setup-proxy-playbook",
+        "title": "Selenium Proxy Setup",
+        "h1": "Selenium Proxy Setup: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/seo-proxy-proxy-playbook",
+        "title": "SEO Proxies",
+        "h1": "SEO Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/sneaker-server-proxy-playbook",
+        "title": "Sneaker Server",
+        "h1": "Sneaker Server: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/sneakerhead-slang-proxy-playbook",
+        "title": "Sneakerhead Slang",
+        "h1": "Sneakerhead Slang: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/social-media-proxy-proxy-playbook",
+        "title": "Social Media Proxies",
+        "h1": "Social Media Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/socks-vs-http-proxy-proxy-playbook",
+        "title": "Socks Vs HTTP Proxy",
+        "h1": "Socks Vs HTTP Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/static-vs-rotating-proxy-proxy-playbook",
+        "title": "Static Vs Rotating Proxies",
+        "h1": "Static Vs Rotating Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/sticky-or-rotating-proxy-proxy-playbook",
+        "title": "Sticky Or Rotating Proxies",
+        "h1": "Sticky Or Rotating Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/the-node-js-libraries-for-web-scraping-proxy-playbook",
+        "title": "The Best Node Js Libraries For Web Scraping",
+        "h1": "The Best Node Js Libraries For Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/the-python-html-parsers-proxy-playbook",
+        "title": "The Best Python Html Parsers",
+        "h1": "The Best Python Html Parsers: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/the-python-http-clients-proxy-playbook",
+        "title": "The Best Python HTTP Clients",
+        "h1": "The Best Python HTTP Clients: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/the-main-proxy-error-codes-and-how-to-fix-them-proxy-playbook",
+        "title": "The Main Proxy Error Codes And How To Fix Them",
+        "h1": "The Main Proxy Error Codes And How To Fix Them: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/the-sneaker-bot-handbook-proxy-playbook",
+        "title": "The Sneaker Bot Handbook",
+        "h1": "The Sneaker Bot Handbook: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/ticketing-proxy-history-proxy-playbook",
+        "title": "Ticketing Proxies History",
+        "h1": "Ticketing Proxies History: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/transparent-proxy-proxy-playbook",
+        "title": "Transparent Proxy",
+        "h1": "Transparent Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/types-of-proxy-proxy-playbook",
+        "title": "Types Of Proxies",
+        "h1": "Types Of Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-crawling-vs-web-scraping-proxy-playbook",
+        "title": "Web Crawling Vs Web Scraping",
+        "h1": "Web Crawling Vs Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-practices-proxy-playbook",
+        "title": "Web Scraping Best Practices",
+        "h1": "Web Scraping Best Practices: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-challenges-proxy-playbook",
+        "title": "Web Scraping Challenges",
+        "h1": "Web Scraping Challenges: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-javascript-vs-python-proxy-playbook",
+        "title": "Web Scraping Javascript Vs Python",
+        "h1": "Web Scraping Javascript Vs Python: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-python-vs-php-proxy-playbook",
+        "title": "Web Scraping Python Vs Php",
+        "h1": "Web Scraping Python Vs Php: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-techniques-proxy-playbook",
+        "title": "Web Scraping Techniques",
+        "h1": "Web Scraping Techniques: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-with-beautiful-soup-proxy-playbook",
+        "title": "Web Scraping With Beautiful Soup",
+        "h1": "Web Scraping With Beautiful Soup: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-with-node-js-proxy-playbook",
+        "title": "Web Scraping With Node Js",
+        "h1": "Web Scraping With Node Js: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-with-python-proxy-playbook",
+        "title": "Web Scraping With Python",
+        "h1": "Web Scraping With Python: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-with-pythons-lxml-proxy-playbook",
+        "title": "Web Scraping With Pythons Lxml",
+        "h1": "Web Scraping With Pythons Lxml: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/web-scraping-with-selenium-proxy-playbook",
+        "title": "Web Scraping With Selenium",
+        "h1": "Web Scraping With Selenium: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/wget-with-a-proxy-proxy-playbook",
+        "title": "Wget With A Proxy",
+        "h1": "Wget With A Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-are-antidetect-browsers-proxy-playbook",
+        "title": "What Are Antidetect Browsers",
+        "h1": "What Are Antidetect Browsers: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-are-shared-proxy-proxy-playbook",
+        "title": "What Are Shared Proxies",
+        "h1": "What Are Shared Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-are-virgin-proxy-proxy-playbook",
+        "title": "What Are Virgin Proxies",
+        "h1": "What Are Virgin Proxies: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-a-dataset-proxy-playbook",
+        "title": "What Is A Dataset",
+        "h1": "What Is A Dataset: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-a-proxy-proxy-playbook",
+        "title": "What Is A Proxy",
+        "h1": "What Is A Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-a-proxy-proxy-playbook-2",
+        "title": "What Is A Proxy Service",
+        "h1": "What Is A Proxy Service: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-a-residential-vpn-proxy-playbook",
+        "title": "What Is A Residential Vpn",
+        "h1": "What Is A Residential Vpn: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-a-udp-proxy-a-simple-guide-proxy-playbook",
+        "title": "What Is A Udp Proxy A Simple Guide",
+        "h1": "What Is A Udp Proxy A Simple Guide: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-ai-web-scraping-proxy-playbook",
+        "title": "What Is Ai Web Scraping",
+        "h1": "What Is Ai Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-an-ai-data-parser-proxy-playbook",
+        "title": "What Is An Ai Data Parser",
+        "h1": "What Is An Ai Data Parser: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-an-anonymous-proxy-proxy-playbook",
+        "title": "What Is An Anonymous Proxy",
+        "h1": "What Is An Anonymous Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-data-parsing-proxy-playbook",
+        "title": "What Is Data Parsing",
+        "h1": "What Is Data Parsing: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-headless-browser-proxy-playbook",
+        "title": "What Is Headless Browser",
+        "h1": "What Is Headless Browser: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-ip-rotation-proxy-playbook",
+        "title": "What Is IP Rotation",
+        "h1": "What Is IP Rotation: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-mcp-server-proxy-playbook",
+        "title": "What Is Mcp Server",
+        "h1": "What Is Mcp Server: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-proxy-subnet-proxy-playbook",
+        "title": "What Is Proxy Subnet",
+        "h1": "What Is Proxy Subnet: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-social-media-scraping-proxy-playbook",
+        "title": "What Is Social Media Scraping",
+        "h1": "What Is Social Media Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/what-is-web-scraping-proxy-playbook",
+        "title": "What Is Web Scraping",
+        "h1": "What Is Web Scraping: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/why-use-a-proxy-proxy-playbook",
+        "title": "Why Use A Proxy",
+        "h1": "Why Use A Proxy: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/windows-proxy-setup-proxy-playbook",
+        "title": "Windows Proxy Setup",
+        "h1": "Windows Proxy Setup: Practical Proxy Guide for 2026"
+      },
+      {
+        "href": "/resources/wrath-aio-proxy-playbook",
+        "title": "Wrath Aio Review",
+        "h1": "Wrath Aio Review: Practical Proxy Guide for 2026"
+      }
+    ]
+  },
+  {
+    "type": "tool",
+    "label": "Tools",
+    "href": "/tools",
+    "items": [
+      {
+        "href": "/tools/free-online-proxy-checker-proxy-toolkit",
+        "title": "Free Online Proxy Checker",
+        "h1": "Free Online Proxy Checker: Proxy Tool Guide and Buyer Notes"
+      },
+      {
+        "href": "/tools/proxy-tools-proxy-toolkit",
+        "title": "Proxy Tools",
+        "h1": "Proxy Tools: Proxy Tool Guide and Buyer Notes"
+      }
+    ]
+  }
+]

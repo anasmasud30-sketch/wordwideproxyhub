@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://affordableproxyhub.com/sitemap-index.xml
+Sitemap: https://affordableproxyhub.com/sitemap.xml

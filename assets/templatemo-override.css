@@ -1,0 +1,142 @@
+/*
+  templatemo-override.css — "Power" template retheme for the React homepage
+  and the static blog pages (loaded LAST, after the app + expansion CSS).
+
+  Strategy: the React app is shadcn/Tailwind themed via CSS variables, so we
+  retheme it to the template's dark navy + gold/orange identity by overriding
+  the design tokens (!important beats the runtime-injected inline values),
+  plus a few targeted overrides for hardcoded utility colors. This keeps the
+  page cohesive with the reskinned SEO pages: same navy body + band, glossy
+  menu pill, green orb, gold buttons, orange headings, dark footer.
+*/
+
+:root {
+  /* --- shadcn design tokens → template navy + gold palette (HSL triplets) --- */
+  --background: 212 28% 21% !important;        /* #273545 navy */
+  --foreground: 96 14% 94% !important;         /* near-white */
+  --card: 211 27% 25% !important;              /* #2f3f52 */
+  --card-foreground: 96 14% 94% !important;
+  --card-border: 210 20% 32% !important;
+  --popover: 213 25% 15% !important;           /* #1d252f */
+  --popover-foreground: 96 14% 94% !important;
+  --popover-border: 210 20% 30% !important;
+  --primary: 40 64% 49% !important;            /* gold #cc9a2c */
+  --primary-foreground: 40 79% 15% !important; /* dark brown text on gold */
+  --primary-border: 38 60% 40% !important;
+  --secondary: 211 20% 32% !important;
+  --secondary-foreground: 96 14% 94% !important;
+  --secondary-border: 210 20% 38% !important;
+  --muted: 211 22% 28% !important;
+  --muted-foreground: 207 22% 72% !important;
+  --muted-border: 210 20% 34% !important;
+  --accent: 40 64% 49% !important;             /* gold accent */
+  --accent-foreground: 40 79% 15% !important;
+  --accent-border: 38 60% 40% !important;
+  --destructive: 8 72% 52% !important;
+  --destructive-foreground: 0 0% 100% !important;
+  --destructive-border: 8 60% 42% !important;
+  --border: 210 20% 32% !important;
+  --input: 210 20% 30% !important;
+  --ring: 40 64% 49% !important;
+  --sidebar: 213 25% 15% !important;
+  --sidebar-foreground: 96 14% 94% !important;
+  --sidebar-primary: 40 64% 49% !important;
+  --sidebar-primary-foreground: 40 79% 15% !important;
+  --sidebar-accent: 211 27% 25% !important;
+  --sidebar-accent-foreground: 96 14% 94% !important;
+  --sidebar-border: 210 20% 30% !important;
+  --sidebar-ring: 40 64% 49% !important;
+  --ring-offset: 213 25% 15% !important;
+}
+
+/* ============================================================
+   BODY — navy + top band + template font
+   ============================================================ */
+html, body {
+  background: #273545 url(templatemo/templatemo_body.jpg) repeat-x top !important;
+  font-family: Tahoma, Geneva, Verdana, sans-serif !important;
+  color: #eef1ee;
+}
+
+/* ============================================================
+   REACT APP (#root) — headings, links, buttons in template hues
+   ============================================================ */
+#root :is(h1, h2, h3) { color: #e37b12; }
+#root :is(h4, h5, h6) { color: #f0a338; }
+
+/* keep text on the gradient hero readable (it stays dark navy) */
+#root .from-slate-900,
+#root .via-slate-900,
+#root .to-slate-950,
+#root .to-slate-800,
+#root .from-blue-900,
+#root .from-slate-950 {
+  --tw-gradient-from: #273545 var(--tw-gradient-from-position) !important;
+  --tw-gradient-to: #1d252f var(--tw-gradient-to-position) !important;
+  --tw-gradient-via: #273545 var(--tw-gradient-via-position) !important;
+}
+
+/* hardcoded blue accents → gold */
+#root .bg-blue-600,
+#root .bg-blue-500,
+#root .hover\:bg-blue-700:hover,
+#root .bg-primary {
+  background-color: #cc9a2c !important;
+  color: #4a3708 !important;
+  border-color: #a9781b !important;
+}
+#root .bg-blue-600:hover,
+#root .bg-blue-500:hover,
+#root .bg-primary:hover { background-color: #dcaa3c !important; }
+#root .text-blue-600,
+#root .text-blue-500,
+#root .text-blue-400,
+#root .text-primary { color: #edae05 !important; }
+#root .border-blue-600,
+#root .border-blue-500 { border-color: #cc9a2c !important; }
+
+/* star ratings / gold accents keep amber; green success keeps green (on-brand) */
+#root .fill-yellow-400,
+#root .text-yellow-400 { color: #edae05 !important; fill: #edae05 !important; }
+
+/* ============================================================
+   STATIC BLOG (body.cdsite) — parchment reading panel + template hues
+   ============================================================ */
+body.cdsite .cdblog {
+  background: #e3e8e2;
+  border: 1px solid #93a094;
+  border-radius: 18px;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  margin: 24px auto 40px !important;
+  max-width: 1040px !important;
+}
+body.cdsite .cdblog-head h1,
+body.cdsite .cdblog-article h1,
+body.cdsite .cdblog-content :is(h2, h3) { color: #d06802 !important; }
+body.cdsite .cdblog-sub,
+body.cdsite .cdblog-meta { color: #55605a !important; }
+body.cdsite .cdblog-content { color: #333 !important; }
+body.cdsite .cdblog-card {
+  background: #f7faf5 !important;
+  border-color: #bcc6bd !important;
+}
+body.cdsite .cdblog-card p { color: #55605a !important; }
+body.cdsite .cdblog-tag {
+  background: #f6ecc6 !important;
+  color: #6a4d08 !important;
+}
+body.cdsite .cdblog-pager a,
+body.cdsite .cdblog-back a,
+body.cdsite .cdblog-content a { color: #3c7a26 !important; }
+body.cdsite .cdblog-content a:hover { color: #d06802 !important; }
+
+/* blog footer → template navy-dark + gold headings */
+body.cdsite .cdfoot {
+  background: #1d252f !important;
+  border-top: 1px solid #3f5063 !important;
+  font-family: Tahoma, Geneva, Verdana, sans-serif !important;
+}
+body.cdsite .cdfoot h4 { color: #edae05 !important; }
+body.cdsite .cdfoot-brand svg { color: #8ede63 !important; }
+body.cdsite .cdfoot a:hover,
+body.cdsite .cdfoot-brand:hover { color: #edae05 !important; }

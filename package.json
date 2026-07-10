@@ -1,0 +1,13 @@
+{
+  "name": "affordableproxyhub-static-seo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate-seo-pages.mjs && node scripts/verify-static-site.mjs",
+    "generate:seo": "node scripts/generate-seo-pages.mjs",
+    "generate:mass": "node scripts/generate-mass-pages.mjs",
+    "build:all": "node scripts/generate-seo-pages.mjs && node scripts/generate-mass-pages.mjs && node scripts/verify-static-site.mjs",
+    "verify:seo": "node scripts/verify-static-site.mjs"
+  }
+}

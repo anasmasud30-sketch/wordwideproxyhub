@@ -1,0 +1,74 @@
+{
+  "generatedCount": 571,
+  "skippedCount": 5,
+  "routeGroups": [
+    "compare",
+    "glossary",
+    "knowledge",
+    "locations",
+    "market-updates",
+    "proxy-provider-analysis",
+    "rankings",
+    "research",
+    "resources",
+    "tools"
+  ],
+  "navigationGroups": [
+    {
+      "label": "Alternatives",
+      "count": 12,
+      "href": "/compare"
+    },
+    {
+      "label": "Comparisons",
+      "count": 5,
+      "href": "/compare"
+    },
+    {
+      "label": "Glossary",
+      "count": 31,
+      "href": "/glossary"
+    },
+    {
+      "label": "Knowledge Base",
+      "count": 20,
+      "href": "/knowledge"
+    },
+    {
+      "label": "Locations",
+      "count": 30,
+      "href": "/locations"
+    },
+    {
+      "label": "Market Updates",
+      "count": 193,
+      "href": "/market-updates"
+    },
+    {
+      "label": "Provider Analysis",
+      "count": 37,
+      "href": "/proxy-provider-analysis"
+    },
+    {
+      "label": "Rankings",
+      "count": 68,
+      "href": "/rankings"
+    },
+    {
+      "label": "Research",
+      "count": 26,
+      "href": "/research"
+    },
+    {
+      "label": "Resources",
+      "count": 147,
+      "href": "/resources"
+    },
+    {
+      "label": "Tools",
+      "count": 2,
+      "href": "/tools"
+    }
+  ],
+  "lastmod": "2026-06-14"
+}
